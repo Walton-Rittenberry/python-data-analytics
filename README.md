@@ -1,1 +1,1 @@
-# python-data-analytics
+Collection of Python and data analytics notebooks compiled during independent study. Currently completing Kaggle's Python and Data Analysis courses as part of active skill development toward data science work in civic and public interest contexts.
